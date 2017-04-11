@@ -30,5 +30,5 @@ Text for transform.
 
 MIT
 
-[travis-url]: https://travis-ci.org/andrepolischuk/capitalize-sentence
-[travis-image]: https://travis-ci.org/andrepolischuk/capitalize-sentence.svg?branch=master
+[travis-url]: https://travis-ci.org/e-compton/capitalize-sentence
+[travis-image]: https://travis-ci.org/e-compton/capitalize-sentence.svg?branch=master
